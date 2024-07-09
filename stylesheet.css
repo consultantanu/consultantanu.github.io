@@ -859,8 +859,7 @@ a.slide__next,
   }
   header-image-mobile {
     display:block;
-    width: 1.5vh;
-    height:1.5vh;
+    box-sizing:content-box;
   }
   h1 {
     font-size: 6.5vw;
