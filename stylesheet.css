@@ -860,9 +860,8 @@ a.slide__next,
     display:block;
     padding:10px 10px 10px 0px;
   }
-  .header-image-mobile{
+  .header-image-mobile a{
     display:block;
-    position:relative;
     align-items:right;
     float:right;
     width:2vh;
