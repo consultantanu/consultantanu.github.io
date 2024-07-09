@@ -863,6 +863,9 @@ a.slide__next,
   .header-image-mobile{
     display:block;
     position:relative;
+    float:right;
+    width:3vh;
+    height:3vh;
     padding-right:10px;
     padding-top:10px;
   }
