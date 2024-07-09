@@ -69,9 +69,6 @@ ul{
 .nav-mobile{
   display:none;
 }
-.header-image-mobile{
-  display:none;
-}
 .menu li{
   display: inline-block;
   float: right;
@@ -859,11 +856,6 @@ a.slide__next,
   .subnav-content-mobile a {
     display:block;
     padding:10px 10px 10px 0px;
-  }
-  .header-image-mobile{
-    display:block;
-    align-items:right;
-    float:right;
   }
   h1 {
     font-size: 6.5vw;
