@@ -858,7 +858,7 @@ a.slide__next,
     padding:10px 10px 10px 0px;
   }
   header-image-mobile a {
-    display: block;
+    display: inline-block;
     width: 2vh;
     height: 2vh;
     float: right;
