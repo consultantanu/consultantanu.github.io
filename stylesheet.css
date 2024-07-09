@@ -857,6 +857,9 @@ a.slide__next,
     display:block;
     padding:10px 10px 10px 0px;
   }
+  header-image-mobile {
+    display:block;
+  }
   h1 {
     font-size: 6.5vw;
   }
