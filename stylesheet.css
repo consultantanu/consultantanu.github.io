@@ -866,6 +866,7 @@ a.slide__next,
     align-items:right;
     width:2vh;
     height:2vh;
+    padding:10px 10px 10px 10px;
   }
   h1 {
     font-size: 6.5vw;
