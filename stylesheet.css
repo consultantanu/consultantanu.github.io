@@ -858,9 +858,11 @@ a.slide__next,
     padding:10px 10px 10px 0px;
   }
   header-image-mobile {
-    display:block;
-    width:16px;
-    height:16px;
+    display: block;
+    width: 2vh;
+    height: 2vh;
+    float: right;
+    cursor: pointer;
   }
   h1 {
     font-size: 6.5vw;
