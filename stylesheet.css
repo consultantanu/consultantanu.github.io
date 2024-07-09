@@ -860,11 +860,10 @@ a.slide__next,
     display:block;
     padding:10px 10px 10px 0px;
   }
-  .header-image-mobile a{
+  .header-image-mobile{
     display:block;
     align-items:right;
     float:right;
-    padding:10px 10px 10px 10px;
   }
   h1 {
     font-size: 6.5vw;
