@@ -859,8 +859,8 @@ a.slide__next,
   }
   header-image-mobile {
     display:block;
-    width:inherit;
-    height:inherit;
+    width:5vh;
+    height:5vh;
   }
   h1 {
     font-size: 6.5vw;
