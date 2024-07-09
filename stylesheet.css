@@ -857,10 +857,10 @@ a.slide__next,
     display:block;
     padding:10px 10px 10px 0px;
   }
-  header-image-mobile a {
-    display: inline-block;
-    width: 2vh;
-    height: 2vh;
+  header-image-mobile {
+    display: block;
+    width: 1vh;
+    height: 1vh;
     float: right;
     cursor: pointer;
   }
